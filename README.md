@@ -1,8 +1,6 @@
 # promotions website-p2
 
 
-reminder
-
-do list 
-
-NOW
+# reminder
+none
+# to do list 
