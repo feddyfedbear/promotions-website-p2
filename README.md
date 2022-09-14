@@ -4,7 +4,7 @@
 # reminder
 - [ ]this is a check box
 - [X]this is a checked box
-- <del></del> to cross outinformation
+- <del></del to cross outinformation
 
 # to do list 
 - [ ] make website 
