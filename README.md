@@ -12,3 +12,4 @@
 - [ ] make infinite rooms/floors 
 - [ ] make creatures/people 
 - [ ] decorate 
+- [ ] find out how to code things in the first place 
