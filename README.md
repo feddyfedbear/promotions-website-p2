@@ -13,3 +13,5 @@
 - [ ] make creatures/people 
 - [ ] decorate 
 - [ ] find out how to code things in the first place 
+- [ ] find out how not to make a to do list simple 
+- [ ] make a to do list not simple 
