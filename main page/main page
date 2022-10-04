@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="itr">
+    <head>
+        <!-- Used By The Keyboard -->
+        <meta charset="utf-8">
+ 
+        <title> totallynotadoorsclone </title>
+
+        <body>
+            <header> <h1>website in a nutshell</h1> </header>
+            <nav>
+                <header>navagation</header>
+                <section>
+                    <header>Various pages</header>
+                    <ul style="list-style-type:square">
+                        <li> 
+                        <li> 
+                        <li> 
+                        <li> 
+                        <li> 
+                        <li> 
+                        <li> 
+                        <li> 
+                        <li>
+                    </ul>
+                </section>
+            </nav>
+            <aside></aside>
+            <main></main>
+            <section></section>
+            <footer></footer>
+            <footer>
+    
